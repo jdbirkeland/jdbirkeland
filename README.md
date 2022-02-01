@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://jdbirkeland.io)
-
+[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)](https://jdbirkeland.io)
 
 <h1 align="center">Hi 👋, I'm Jacob Birkeland</h1>
 <h3 align="center">I am a passionate developer who loves learning and creating with technology.</h3>
