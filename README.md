@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Birkeland</h1>
 <h3 align="center">I am a passionate developer who loves learning and creating with technology.</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://unsplash.com/photos/6njoEbtarec”>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <!-- <p align="left"> <img src="https://unsplash.com/photos/6njoEbtarec" alt="jdbirkeland" /> </p> -->
 
