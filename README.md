@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Birkeland</h1>
 <h3 align="center">I am a passionate developer who loves learning and creating with technology.</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif”>
+<img align=“right” alt=“Coding” width=“400” src=“https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbirkeland&label=Profile%20views&color=0e75b6&style=flat" alt="jdbirkeland" /> </p>
 
