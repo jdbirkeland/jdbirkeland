@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/2DYg.gif)](https://jdbirkeland.io)
+[![MasterHead](https://unsplash.com/photos/6njoEbtarec)](https://jdbirkeland.io)
 
 
 <h1 align="center">Hi 👋, I'm Jacob Birkeland</h1>
@@ -6,7 +6,7 @@
 
 <img align=“right” alt=“Coding” width=“400” src=“https://unsplash.com/photos/6njoEbtarec”>
 
-<p align="left"> <img src="https://unsplash.com/photos/6njoEbtarec" alt="jdbirkeland" /> </p>
+<!-- <p align="left"> <img src="https://unsplash.com/photos/6njoEbtarec" alt="jdbirkeland" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbirkeland" alt="jdbirkeland" /></a> </p>
 
