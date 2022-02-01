@@ -1,4 +1,4 @@
-[![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)](https://jdbirkeland.io)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://jdbirkeland.io)
 
 <h1 align="center">Hi 👋, I'm Jacob Birkeland</h1>
 <h3 align="center">I am a passionate developer who loves learning and creating with technology.</h3>
