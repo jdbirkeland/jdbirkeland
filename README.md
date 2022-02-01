@@ -6,7 +6,7 @@
 
 <img align=“right” alt=“Coding” width=“400” src=“https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbirkeland&label=Profile%20views&color=0e75b6&style=flat" alt="jdbirkeland" /> </p>
+<p align="left"> <img src="https://unsplash.com/photos/6njoEbtarec" alt="jdbirkeland" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbirkeland" alt="jdbirkeland" /></a> </p>
 
